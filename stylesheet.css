@@ -4,6 +4,11 @@ h1 {
 .navbar-brand {
   font-size: 50px;
 }
-
+nav {
+  background-color: #008B8B;
+}
+body {
+  background-color:#20B2AA;
+}
 
   
