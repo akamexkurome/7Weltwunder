@@ -10,5 +10,12 @@ nav {
 body {
   background-color:#20B2AA;
 }
-
+h4 {
+  margin-top: 70px;
+  margin-left: 50px;
+  font-weight: bold;
+}
+span {
+  font-weight: bold;
+}
   
