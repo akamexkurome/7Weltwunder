@@ -12,8 +12,9 @@ body {
   font-family: Arial;
 }
 h4 {
-  margin-top: 70px;
+  margin-top: 50px;
   margin-left: 50px;
+  margin-bottom: 50px;
   font-weight: bold;
 }
 span {
@@ -24,6 +25,7 @@ p {
 }
 .zeus {
   background-color: #B0E2FF;
+  margin-top: 50px;
 }
 .gizeh {
   background-color: #A4D3EE;
