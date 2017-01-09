@@ -44,5 +44,5 @@ p {
   background-color: #8DB6CD;
 }
 .rechts {
-  position: right;
+  display: inline-block;
 }
