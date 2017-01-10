@@ -17,14 +17,14 @@ h4 {
   margin-bottom: 50px;
   font-size: 25px;
   font-weight: bold;
-  position: center;
+  float: center;
 }
 span {
   font-weight: bold;
 }
 p {
   margin-left:20px;
-  position: center;
+  float: center;
 }
 .zeus {
   background-color: #B0E2FF;
