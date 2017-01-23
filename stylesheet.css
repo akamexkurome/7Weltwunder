@@ -11,9 +11,9 @@ body {
   background-color:#20B2AA;
   font-family: Arial;
 }
-.col-sm-4 {
+/*.col-sm-4 {
   border-top: 1px solid black;
-}
+}*/
 .col-sm-12 {
   border-top: 1px solid black;
 }
