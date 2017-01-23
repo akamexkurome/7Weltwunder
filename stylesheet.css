@@ -18,7 +18,7 @@ h4 {
   font-size: 30px;
   font-weight: bold;
   text-align: center;
-  border-top: 1px dashed black;
+   
 }
 span {
   font-weight: bold;
@@ -64,4 +64,7 @@ p {
 }
 .rechts {
   display: inline-block;
+}
+.col-sm-12 {
+  border-top: 1px solid black;
 }
